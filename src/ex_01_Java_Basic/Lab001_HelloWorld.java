@@ -2,7 +2,6 @@ package ex_01_Java_Basic;
 
 public class Lab001_HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, i am RUNNING JAVA Program");
-        System.out.println("Check Run Output");
+        System.out.println("Hello world, This ATB13x aa");
     }
 }
