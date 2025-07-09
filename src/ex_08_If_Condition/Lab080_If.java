@@ -1,4 +1,4 @@
-package ex_07_Increment_Decrement_Op;
+package ex_08_If_Condition;
 
 import java.util.Scanner;
 

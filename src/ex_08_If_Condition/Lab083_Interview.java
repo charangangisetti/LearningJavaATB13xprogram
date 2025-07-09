@@ -1,4 +1,4 @@
-package ex_07_Increment_Decrement_Op;
+package ex_08_If_Condition;
 
 public class Lab083_Interview {
     public static void main(String[] args) {
