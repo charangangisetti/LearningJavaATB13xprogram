@@ -17,10 +17,8 @@ public class Lab034_Char_Literal {
 
         System.out.println("CharanG");
         System.out.println("Charan"+new_line+"G");
-        System.out.println("Pramod"+tab_line+"Dutta");
         System.out.println("charan"+back_space+"G");
         System.out.println("Charan is old"+carriage_return+"G");
-
         System.out.println("Hi, This is a First line"+new_line+"This is second line\n This is Third line");
 
         char c10='A';
